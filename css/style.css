@@ -102,6 +102,7 @@ header {
     font-size: var(--p-font);
     font-weight: 500;
     transition: ease .50s;
+    margin-right: 3px;
 }
 
 .top-btn:hover {
@@ -638,4 +639,5 @@ header.sticky {
     .contact .action form input[type="email"] {
         width: 310px;
     }
+
 }
